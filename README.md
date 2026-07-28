@@ -6,4 +6,4 @@ Bem-vindo ao meu tutorial criado no GitHub!
 1. Abra o navegador.
 2. Acesse o site.
 3. Clique em entrar.
-4. ![Nome da Imagem](Captura de tela 2026-07-27 174436.jpg)
+4. ![Nome da Imagem](tela-1.jpg)
