@@ -4,3 +4,11 @@ build:
   os: "ubuntu-22.04"
   tools:
     python: "3.11"
+
+# Linha obrigatória que estava faltando para o Read the Docs identificar o MkDocs:
+mkdocs:
+  configuration: mkdocs.yml
+
+python:
+  install:
+    - requirements: requirements.txt
