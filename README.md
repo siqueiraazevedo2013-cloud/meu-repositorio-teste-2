@@ -4,7 +4,7 @@ Bem-vindo ao meu tutorial criado no # GitHub!
 
 ## Como usar o sistema:
 1. Abra o navegador.
-2. Acesse o *site*.
-3. > **NOTE:** Esta ação não poderá ser desfeita após a confirmação.
+2. > **Nota:** Certifique-se de salvar suas alterações antes de fechar a página.
+3. Acesse o *site*.
 4. Clique em entrar.
 5. ![Nome da Imagem](tela-1.jpg)
