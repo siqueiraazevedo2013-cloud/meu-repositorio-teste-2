@@ -1,9 +1,8 @@
-meu-sistema-docs/
-├── docs/
-│   ├── assets/
-│   │   └── imagens/
-│   │       └── tela-login.png  <-- Suas imagens ficam aqui
-│   ├── index.md                <-- Página inicial (Home)
-│   └── tutorial.md             <-- Seu tutorial passo a passo
-├── mkdocs.yml                  <-- Arquivo de configuração principal
-└── requirements.txt            <-- Dependências para o Read the Docs
+# Meu Primeiro Tutorial
+
+Bem-vindo ao meu tutorial criado no GitHub!
+
+## Como usar o sistema:
+1. Abra o navegador.
+2. Acesse o site.
+3. Clique em entrar.
