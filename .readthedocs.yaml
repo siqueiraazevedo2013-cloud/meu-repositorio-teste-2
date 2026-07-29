@@ -5,10 +5,10 @@ build:
   tools:
     python: "3.11"
 
-# Linha obrigatória que estava faltando para o Read the Docs identificar o MkDocs:
 mkdocs:
   configuration: mkdocs.yml
 
 python:
   install:
-    - requirements: requirements.txt
+    - method: pip
+      path: .
